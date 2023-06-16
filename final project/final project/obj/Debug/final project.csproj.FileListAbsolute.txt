@@ -1,0 +1,28 @@
+C:\Users\omar\source\repos\final project\final project\obj\Debug\final project.csprojAssemblyReference.cache
+C:\Users\omar\source\repos\final project\final project\obj\Debug\final_project.Form1.resources
+C:\Users\omar\source\repos\final project\final project\obj\Debug\final_project.Properties.Resources.resources
+C:\Users\omar\source\repos\final project\final project\obj\Debug\final project.csproj.GenerateResource.cache
+C:\Users\omar\source\repos\final project\final project\obj\Debug\final project.csproj.CoreCompileInputs.cache
+C:\Users\omar\source\repos\final project\final project\bin\Debug\final project.exe.config
+C:\Users\omar\source\repos\final project\final project\bin\Debug\final project.exe
+C:\Users\omar\source\repos\final project\final project\bin\Debug\final project.pdb
+C:\Users\omar\source\repos\final project\final project\obj\Debug\final project.exe
+C:\Users\omar\source\repos\final project\final project\obj\Debug\final project.pdb
+C:\Users\omar\source\repos\final project\final project\obj\Debug\final_project.Form2.resources
+C:\Users\omar\source\repos\final project\final project\obj\Debug\final_project.Form3.resources
+C:\Users\omar\source\repos\final project\final project\obj\Debug\final_project.Form4.resources
+C:\Users\omar\source\repos\final project\final project\obj\Debug\final_project.Form5.resources
+C:\Users\omar\source\repos\final project\final project\obj\Debug\final_project.Form7.resources
+C:\Users\omar\source\repos\final project\final project\obj\Debug\final_project.Form8.resources
+C:\Users\omar\source\repos\final project\final project\obj\Debug\final_project.Form9.resources
+C:\Users\omar\source\repos\final project\final project\obj\Debug\final_project.Form11.resources
+C:\Users\omar\source\repos\final project\final project\obj\Debug\final_project.Form12.resources
+C:\Users\omar\source\repos\final project\final project\obj\Debug\final_project.Form13.resources
+C:\Users\omar\source\repos\final project\final project\obj\Debug\final_project.Form14.resources
+C:\Users\omar\source\repos\final project\final project\obj\Debug\final_project.Form15.resources
+C:\Users\omar\source\repos\final project\final project\obj\Debug\final_project.Form16.resources
+C:\Users\omar\source\repos\final project\final project\obj\Debug\final_project.Form17.resources
+C:\Users\omar\source\repos\final project\final project\obj\Debug\final_project.Form18.resources
+C:\Users\omar\source\repos\final project\final project\obj\Debug\final_project.Form19.resources
+C:\Users\omar\source\repos\final project\final project\obj\Debug\final_project.Form20.resources
+C:\Users\omar\source\repos\final project\final project\obj\Debug\final_project.Form21.resources
